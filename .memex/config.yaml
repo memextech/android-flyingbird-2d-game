@@ -1,0 +1,43 @@
+card_image: ''
+created_at: 2025-04-15 13:48:06.882000
+creator_id: unknown
+deployment:
+  last_deployed: null
+  type: null
+  url: ''
+description: Android 2D game
+domain: ''
+features:
+- ''
+getting_started_screen: false
+getting_started_screen_index: 0
+git:
+  branch: main
+  remote: origin
+  url: https://github.com/memextech/android-flyingbird-2d-game
+hero_image: ''
+icon: ''
+is_published: true
+pills:
+- icon: GameConsole
+  label: Setup Android Development Environment
+  prompt: Guide user through setting up Android Development Environment
+project_id: q5GD2qSbZsrD4hN6W6SI
+published_at: 2025-04-15 14:04:30.614000
+requirements:
+- description: ''
+  type: ''
+slug: ''
+storage:
+  compression_enabled: null
+  gcs_path: null
+  last_sync: null
+  max_file_size_mb: null
+  size_bytes: null
+title: Android Flying Bird 2D Game
+tools:
+- name: ''
+  role: ''
+  type: ''
+  version: ''
+updated_at: 2025-04-15 14:04:30.614000

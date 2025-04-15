@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="1024dp"
+    android:height="768dp"
+    android:viewportWidth="1024"
+    android:viewportHeight="768">
+
+    <!-- Sky -->
+    <path
+        android:fillColor="#87CEEB"
+        android:pathData="M0,0 L1024,0 L1024,768 L0,768 Z" />
+
+    <!-- Clouds -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M100,100 C150,80 200,80 250,100 C270,70 320,70 340,100 C400,90 430,100 450,130 C450,160 400,180 340,170 C320,200 270,200 250,170 C200,190 150,190 100,170 C50,180 20,160 20,130 C20,100 50,90 100,100" />
+    
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M700,200 C750,180 800,180 850,200 C870,170 920,170 940,200 C1000,190 1030,200 1050,230 C1050,260 1000,280 940,270 C920,300 870,300 850,270 C800,290 750,290 700,270 C650,280 620,260 620,230 C620,200 650,190 700,200" />
+
+    <!-- Sun -->
+    <path
+        android:fillColor="#FFFF00"
+        android:pathData="M900,100 C900,70 930,70 930,100 C930,130 900,130 900,100" />
+
+    <!-- Hills -->
+    <path
+        android:fillColor="#228B22"
+        android:pathData="M0,768 L200,600 L400,700 L600,600 L800,680 L1024,580 L1024,768 Z" />
+</vector>
