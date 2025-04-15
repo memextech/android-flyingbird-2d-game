@@ -15,7 +15,7 @@ git:
   branch: main
   remote: origin
   url: https://github.com/memextech/android-flyingbird-2d-game
-hero_image: ''
+hero_image: https://raw.githubusercontent.com/memextech/android-flyingbird-2d-game/main/public/images/hero-image.png
 icon: ''
 is_published: true
 pills:
@@ -40,4 +40,4 @@ tools:
   role: ''
   type: ''
   version: ''
-updated_at: 2025-04-15 14:04:30.614000
+updated_at: 2025-04-15 14:53:49.843000
