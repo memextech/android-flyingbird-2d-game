@@ -8,7 +8,8 @@ deployment:
 description: Android 2D game
 domain: ''
 features:
-- ''
+- Android
+- Game
 getting_started_screen: false
 getting_started_screen_index: 0
 git:
@@ -40,4 +41,4 @@ tools:
   role: ''
   type: ''
   version: ''
-updated_at: 2025-04-15 14:53:49.843000
+updated_at: 2025-04-16 16:11:21.422000
